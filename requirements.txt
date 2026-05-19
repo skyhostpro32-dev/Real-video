@@ -1,5 +1,0 @@
-streamlit
-requests
-opencv-python-headless
-Pillow
-numpy
